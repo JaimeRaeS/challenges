@@ -1,0 +1,83 @@
+*{
+  box-sizing: border-box;
+}
+
+background-image: url(/images/bread.jpg);
+
+body {
+<<<<<<< HEAD:Two/Bread Challenge _ Responsive/Exercise_2.css
+  background-color: #dcdcdc;
+  background-color: hsla(0,50%,78%);
+=======
+  background-color: #C8C8C8;
+  background-color: hs1(0,0%,78%);
+>>>>>>> b268e5de0c733d7c7a90604582dfea59f5e3f072:Two/Exercise_1.css
+}
+
+h1 {
+  color: #2f4f4f;
+  font: helvetica;
+  font-family: sans-serif;
+  font-size: 72.5px;
+}
+
+
+dl {
+  color: #2f4f4f;
+  font: helvetica;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+
+h2 {
+  border-bottom-right-radius: 20px 50%;
+  color: #2f4f4f;
+  font: helvetica;
+  font-family: sans-serif;
+  font-size: 20px;
+    font-style: oblique;
+}
+
+
+dd {
+  color: #2f4f4f;
+  font: helvetica;
+  font-family: sans-serif;
+  font-size: 11px;
+  margin-top: 10px;
+  text-align: justify;
+<<<<<<< HEAD:Two/Bread Challenge _ Responsive/Exercise_2.css
+=======
+  background-color: #	#c0c0c0;
+  background-color: hsla(0,100%,100%,0.5);
+>>>>>>> b268e5de0c733d7c7a90604582dfea59f5e3f072:Two/Exercise_1.css
+}
+
+
+.title {
+display: flex;
+align-items: center;
+justify-content: center;
+<<<<<<< HEAD:Two/Bread Challenge _ Responsive/Exercise_2.css
+}
+
+
+.steps {
+padding-left: 60px;
+=======
+
+}
+
+.steps {
+>>>>>>> b268e5de0c733d7c7a90604582dfea59f5e3f072:Two/Exercise_1.css
+display: flex;
+align-items: left;
+justify-content: left;
+padding-right: 200px;
+<<<<<<< HEAD:Two/Bread Challenge _ Responsive/Exercise_2.css
+=======
+background-color: #	#c0c0c0;
+background-color: hsla(0,100%,100%,0.5);
+>>>>>>> b268e5de0c733d7c7a90604582dfea59f5e3f072:Two/Exercise_1.css
+}
